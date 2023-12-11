@@ -14,3 +14,5 @@ def main():
     # Button to calculate the largest number
     if st.button("Find Largest Number"):
         largest_number = find_largest_numb
+
+main()
